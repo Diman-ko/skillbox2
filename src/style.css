@@ -3,10 +3,11 @@
 body {
     font-family: 'Ubuntu', sans-serif;
 }
+
 .content {
     width: 1000px;
     margin: 0 auto;
- }
+}
 
 .img-group {
     margin: 0;
