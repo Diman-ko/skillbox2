@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="feat: наполнение контентом" />
+    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="init: Практика 1">
+      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/decorate-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/decorate-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skillbox.docx" beforeDir="false" afterPath="$PROJECT_DIR$/skillbox.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +50,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\WebstormProjects\SkillBox\Html-run\skillbox2\img" />
+      <recent name="G:\WebstormProjects\SkillBox\Html-run\skillbox2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +67,7 @@
       <workItem from="1679957887903" duration="2205000" />
       <workItem from="1679960130078" duration="445000" />
       <workItem from="1679988034738" duration="3572000" />
-      <workItem from="1679998495437" duration="328000" />
+      <workItem from="1679998495437" duration="2470000" />
     </task>
     <task id="LOCAL-00001" summary="init: initial repository">
       <created>1679958515291</created>
@@ -68,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679960066448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init: Практика 1">
+      <created>1679999126907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679999126907</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +130,8 @@
     <MESSAGE value="feat: add index html js style.css" />
     <MESSAGE value="init: initial repository" />
     <MESSAGE value="feat: наполнение контентом" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: наполнение контентом" />
+    <MESSAGE value="init: Практика 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: Практика 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
