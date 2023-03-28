@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="init: Практика 1">
+    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="feat: исправления дополнения в article.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -57,7 +57,7 @@
       <workItem from="1679957887903" duration="2205000" />
       <workItem from="1679960130078" duration="445000" />
       <workItem from="1679988034738" duration="3572000" />
-      <workItem from="1679998495437" duration="5631000" />
+      <workItem from="1679998495437" duration="9179000" />
     </task>
     <task id="LOCAL-00001" summary="init: initial repository">
       <created>1679958515291</created>
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680004654992</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: исправления дополнения в article.html">
+      <created>1680008998256</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680008998256</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +125,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="skill-test" />
                       </list>
                     </value>
                   </entry>
@@ -136,7 +143,8 @@
     <MESSAGE value="feat: наполнение контентом" />
     <MESSAGE value="feat: заполнение" />
     <MESSAGE value="init: Практика 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="init: Практика 1" />
+    <MESSAGE value="feat: исправления дополнения в article.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: исправления дополнения в article.html" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

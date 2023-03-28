@@ -3,7 +3,15 @@
 body {
   font-family: 'Ubuntu', sans-serif;
   width: 100%;
+  margin: 19px;
 }
 img {
   background: black;
+}
+h3 {
+  color: #808080;
+}
+
+.fon-grey {
+  background: grey;
 }
