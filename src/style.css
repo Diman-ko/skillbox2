@@ -2,9 +2,8 @@
 
 body {
   font-family: 'Ubuntu', sans-serif;
-  width: 700px;
+  width: 100%;
 }
-td, th {
-  border: 1px solid black;
-  align: center;
+img {
+  background: black;
 }
