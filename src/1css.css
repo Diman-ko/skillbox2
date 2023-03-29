@@ -1,0 +1,13 @@
+.parent {
+  max-width: 1000px;
+  display: flex;
+  margin: 0 auto;
+
+}
+
+.child {
+  min-height: 200px;
+  width: 333px;
+  background: mediumvioletred;
+  border: 2px solid #000;
+}
