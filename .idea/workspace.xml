@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="feat: исправления дополнения в article.html">
-      <change afterPath="$PROJECT_DIR$/1css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1css.css" afterDir="false" />
+    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="feat: add reset 2style.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/2style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <workItem from="1679988034738" duration="3572000" />
       <workItem from="1679998495437" duration="11222000" />
       <workItem from="1680016738640" duration="959000" />
-      <workItem from="1680069621641" duration="364000" />
+      <workItem from="1680069621641" duration="7996000" />
     </task>
     <task id="LOCAL-00001" summary="init: initial repository">
       <created>1679958515291</created>
@@ -124,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680013157372</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat: add reset 2style.css">
+      <created>1680070035831</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680070035831</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: add reset 2style.css">
+      <created>1680070050437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680070050437</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +175,8 @@
     <MESSAGE value="feat: заполнение" />
     <MESSAGE value="init: Практика 1" />
     <MESSAGE value="feat: исправления дополнения в article.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: исправления дополнения в article.html" />
+    <MESSAGE value="feat: add reset 2style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add reset 2style.css" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
