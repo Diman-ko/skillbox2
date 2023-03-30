@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="feat: add files &amp; text fix bag">
+    <list default="true" id="b641738b-3078-4a3a-9115-b20c4a2cab58" name="Changes" comment="feat: исправил подписи к картинкам">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/article.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skillbox2.rar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1680016738640" duration="959000" />
       <workItem from="1680069621641" duration="12301000" />
       <workItem from="1680103869614" duration="2112000" />
-      <workItem from="1680154730376" duration="505000" />
+      <workItem from="1680154730376" duration="5062000" />
     </task>
     <task id="LOCAL-00001" summary="init: initial repository">
       <created>1679958515291</created>
@@ -146,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680085041637</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="feat: исправил подписи к картинкам">
+      <created>1680155265623</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680155265623</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: исправил подписи к картинкам">
+      <created>1680155288209</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680155288209</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +197,8 @@
     <MESSAGE value="feat: исправления дополнения в article.html" />
     <MESSAGE value="feat: add reset 2style.css" />
     <MESSAGE value="feat: add files &amp; text fix bag" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add files &amp; text fix bag" />
+    <MESSAGE value="feat: исправил подписи к картинкам" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: исправил подписи к картинкам" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
